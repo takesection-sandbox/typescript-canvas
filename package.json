@@ -1,0 +1,14 @@
+{
+  "name": "typescript-canvas",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc",
+    "postinstall": "typings install"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0"
+  }
+}
